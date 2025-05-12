@@ -2,7 +2,7 @@ package com.juaracoding;
 
 import java.util.Scanner;
 
-public class Testing {
+public class Bioskop {
     // Array untuk menyimpan film
     static String[] films = new String[10];
     static int filmCount = 0; // Menghitung jumlah film yang telah ditambahkan
